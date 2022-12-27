@@ -17,7 +17,7 @@ const routes: Array<RouteRecordRaw> = [
   },
   {
     path: '/',
-    name: 'AutoCom',
+    name: 'autoCom',
     component: () => import('../views/AutoCom.vue')
   }
 ]
