@@ -19,6 +19,11 @@ const routes: Array<RouteRecordRaw> = [
     path: '/',
     name: 'autoCom',
     component: () => import('../views/AutoCom.vue')
+  },
+  {
+    path: '/login',
+    name: 'loginView',
+    component: () => import('../views/LoginView.vue')
   }
 ]
 
