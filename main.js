@@ -1,1 +1,3 @@
-console.log('dream4u')
+const str = 'dream4u'
+
+console.log(str)
