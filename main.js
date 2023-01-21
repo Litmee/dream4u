@@ -1,3 +1,3 @@
-const str = 'Hello, dream4u'
+const str = 'Hello, this is dream4u'
 
 console.log(str)
