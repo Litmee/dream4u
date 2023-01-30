@@ -1,3 +1,3 @@
-const str = 'Hello, Dream4u'
+const ssr = 'Hello World'
 
-console.log(str)
+console.log(ssr)
